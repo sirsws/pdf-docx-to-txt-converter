@@ -1,0 +1,6 @@
+PyMuPDF
+pdf2image
+paddleocr
+python-docx
+Pillow
+numpy
